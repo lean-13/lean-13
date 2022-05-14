@@ -1,2 +1,3 @@
 ## Buenas, soy Leandro
-> Soy de argentina
+
+<p>Soy <strong>Desarrollador web</strong> buscando mi primera experiencia laboral.<br />¡Aqui puedes ver mis proyectos actuales 👇!</p>
