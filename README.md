@@ -1,3 +1,2 @@
-## Buenas 
-
-Mi nombre es Leandro
+## Buenas, soy Leandro
+> Soy de argentina
