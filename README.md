@@ -12,11 +12,10 @@
   </a>
 </div>
 
-<div>
-  
-  > Redes sociales
-  <div> 
+## Redes sociales
+
+<div> 
     <a href='https://www.linkedin.com/in/leandro-go%C3%B1i-5573a8228/'>Linkedin</a>
-  </div>
-  
 </div>
+  
+
