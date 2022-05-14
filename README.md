@@ -12,6 +12,8 @@
   </a>
 </div>
 
+>El orden cronologico es de isquierda a derecha
+
 ## Redes sociales
 
 <div> 
