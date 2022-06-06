@@ -6,7 +6,7 @@
   
   <a href='https://lean-13.github.io/portafolio/'>
     
-    <img width='30%' src='' alt='🔥 Portafolio' />
+    <img width='30%' src='https://user-images.githubusercontent.com/92491826/172252172-d59c01d6-706d-49b1-a111-d7fdfdaf586b.PNG' alt='🔥 Portafolio' />
     
   </a>
   
