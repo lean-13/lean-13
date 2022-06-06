@@ -2,7 +2,7 @@
 
 <p>Soy <strong>Desarrollador web</strong> buscando mi primera experiencia laboral.<br />¡Aqui puedes ver mi portafolio 👇!</p>
 
-<div>
+
   
   <a href='https://lean-13.github.io/portafolio/'>
 
@@ -10,7 +10,7 @@
     
   </a>
   
-</div>
+
 
 
 ## Redes sociales
